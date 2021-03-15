@@ -1,7 +1,7 @@
 #The exercises are taken from the following source(s) and updated with my own data and notes:
 
 #If Hemingway Wrote JavaScript by Angus Croll
-##Colt Steele's JS Algorithms and Data Strcutures Masterclass on Udemy (https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+##Colt Steele's JS Algorithms and Data Strcutures Masterclass on Udemy (https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/).
 
 #This list will be updated as sources are added.
 #created: 3/15/2021 - JFR
