@@ -1,6 +1,6 @@
 //March 2021
 
-// 5 examples of the fibonacci sequence:
+//5 examples of the fibonacci sequence:
 
 
 //Hemingway
@@ -105,4 +105,4 @@ function theDaFibonacciCode(numeratiFettucini){
 	return ilInumerati;
 }
 
-console.log(theDaFibonacciCode(5));
+console.log(theDaFibonacciCode(5)); 
