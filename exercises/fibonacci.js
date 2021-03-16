@@ -76,7 +76,7 @@ function LeonardoPisanoBigollo(l) {
 	return r
 }
 
-console.log(LeonardoPisanoBigollo(4));
+console.log(LeonardoPisanoBigollo(5));
 
 
 //Brown: Angels and Deamons
