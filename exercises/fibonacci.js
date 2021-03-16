@@ -69,7 +69,7 @@ function LeonardoPisanoBigollo(l) {
 		return "I'd prefer not to respond. (Although several replies occur to me.)"
 	}
 	
-    for (var i=2,r=[0,1].slice(0,l);i<l;r.push(r[i-1]+r[i-2]),i++)
+    for (var i=2,r=[0,1].slice(0,l);i<l;r.push(r[i-1]+r[i-2]),i++);
 	
 	//In the book, there's an unnecessary 'rationalTheorists' ARRAY here, but I left it out.
 	
