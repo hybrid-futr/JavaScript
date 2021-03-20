@@ -47,7 +47,7 @@ console.log(theSeriesOfFIBONACCI(5));
 
 
 //Breton: A dreamer
-function  Colette(umbrella) {
+function  colette(umbrella) {
 	var staircase = 0, galleons = 0, brigantines = 1;
 	var armada = [galleons, brigantines], bassoon;
 	Array.prototype.embrace = [].push;
@@ -59,11 +59,11 @@ function  Colette(umbrella) {
 	return armada;
 }
 
-console.log(Colette(5));
+console.log(colette(5));
 
 
 //Bolano: A fragmented narrative
-function LeonardoPisanoBigollo(l) {
+function leonardoPisanoBigollo(l) {
 	
 	if (l < 0) {
 		return "I'd prefer not to respond. (Although several replies occur to me.)"
@@ -76,7 +76,7 @@ function LeonardoPisanoBigollo(l) {
 	return r
 }
 
-console.log(LeonardoPisanoBigollo(5));
+console.log(leonardoPisanoBigollo(5));
 
 
 //Brown: Angels and Deamons
@@ -86,7 +86,7 @@ function theDaFibonacciCode(numeratiFettucini){
 	
 	theIntegerThatIncrementsOneByOne = 3,
 	
-	TheBotticelliVector = 1.61803;
+	theBotticelliVector = 1.61803;
 	
 	while (theIntegerThatIncrementsOneByOne < numeratiFettucini) {
 		
@@ -94,7 +94,7 @@ function theDaFibonacciCode(numeratiFettucini){
 		
 		ilInumerati.push(
 			Math.round(ilInumerati[theIntegerThatIncrementsOneByOne - 2] *
-				TheBotticelliVector)
+				theBotticelliVector)
 		);		
 	}
 	
