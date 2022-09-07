@@ -1,0 +1,4 @@
+The exercises are taken from the following source(s) and updated with my own data and notes:
+
+If Hemingway Wrote JavaScript by Angus Croll
+Colt Steele's JS Algorithms and Data Strcutures Masterclass on Udemy (https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
